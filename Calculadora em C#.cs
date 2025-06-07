@@ -33,7 +33,7 @@ using System;
 
         double resultado = 0;
 
-
+// utilizei o switch que tem  como informação o operador
         switch (operador)
         {
             case '+':
